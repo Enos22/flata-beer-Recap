@@ -1,0 +1,104 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "name": "Oh So Flatteningssssss",
+      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only onceeee.",
+      "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+      "reviews": [
+        "It's flat! Just the way I like it!!",
+        "Is this the real beer, is this just fantasy?",
+        "I've always hated bubbles going up my nose, so this is absolutely delightful.",
+        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlataBeer!! I love you!!!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pilsen Lager",
+      "description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness.",
+      "image_url": "https://www.havenwines.co.ke/wp-content/uploads/2021/08/Pilsner-Lager-Beer-500ml.jpg",
+      "reviews": [
+        "Spicy crab cakes, say what?!",
+        "My mum hates it"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Avery Brown Dredge",
+      "description": "We let it sit out in the open air for 12 hours for perfect flatness and add brown sauce for more brownness...",
+      "image_url": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        "Tastes like a weird squid"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Electric India",
+      "description": "Tastes like memories",
+      "image_url": "https://efp.brewdog.com/images/cms/blog/1467362768ElectricIndiaSunset.jpg",
+      "reviews": [
+        "I remember nothing"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "AB:12",
+      "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry.",
+      "image_url": "https://www.sintbernardus.be/images/photolib/noresize/3001/3001.jpg",
+      "reviews": [
+        "I lost my pet squirrel to this beer",
+        "Where's the beef?!"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "AB:07",
+      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol.",
+      "image_url": "https://belgianmart.com/cdn/shop/products/x_7b87d57f-3f14-45a6-ab07-9461364266ae_800x.jpg?v=1538785871",
+      "reviews": [
+        "I like to drink this while watching TV",
+        "A beer like no other, best served hot"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Bramling X",
+      "description": "Bramling Cross re-invented and re-imagined: a fruity riot of blackberries, pears, and plums with enough British hops to make a point.",
+      "image_url": "https://brewcavern.co.uk/wp-content/uploads/2017/02/kernel_pale-ale-bramling-cross.jpg",
+      "reviews": [
+        "It was smooth and well aged",
+        "Like a river of joy"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Misspent Youth",
+      "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar-infused Scotch Ale.",
+      "image_url": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        "Woe is me, how I long for the days of yore",
+        "Reminds me of that time I wasted all of my time",
+        "It's a flavor that makes you wonder: 'Who is the boss: Angela or Tony?'"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Arcade Nation",
+      "description": "Running the knife-edge between an India Pale Ale and a Stout, this Black IPA balances citrus, mango and pine against roasty malt dryness.",
+      "image_url": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        "Pew pew"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Movember",
+      "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
+      "image_url": "https://brew61.co.uk/wp-content/uploads/2022/08/brew-61-06486-min-500x330.jpg",
+      "reviews": [
+        "Like autumn leaves readying themselves for the winter sun",
+        "Beep beep, you're having a beer"
+      ]
+    }
+  ]
+}
